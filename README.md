@@ -148,9 +148,4 @@ npm run dev
 | Name                | Role                 | GitHub                           |
 | ------------------- | -------------------- | -------------------------------- |
 | **Minahil Nadeem**  | Full Stack Developer | [@username](https://github.com/) |
-| **[Member 2 Name]** | Frontend/UI          | [@username](https://github.com/) |
-| **[Member 3 Name]** | Backend/DB           | [@username](https://github.com/) |
 
----
-You can just paste this directly into your `README.md` file.
-```
