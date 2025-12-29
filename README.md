@@ -143,9 +143,9 @@ npm run dev
 
 ---
 
-## 👥 Group Members
+## 👥 Developer:
 
 | Name                | Role                 | GitHub                           |
 | ------------------- | -------------------- | -------------------------------- |
-| **Minahil Nadeem**  | Full Stack Developer | [@username](https://github.com/) |
+| **Minahil Nadeem**  | Full Stack Developer | https://github.com/meneske16 |
 
